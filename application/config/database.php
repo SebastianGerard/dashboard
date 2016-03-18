@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'https://tuxo-cooldashboard.rhcloud.com',
+	'username' => 'adminmHSXuPU',
+	'password' => 'hwCvVcrWFsHr',
+	'database' => 'tuxo',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
