@@ -1,0 +1,25 @@
+.canvasclock {
+  display: block;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 200px;
+}
+
+.clocktitle{
+	color: white !important;
+	font-weight: normal;
+}
+
+.clock{
+	width:200px;
+	height:200px;
+	margin-right:75px;
+	display:inline-block;
+}
+
+@media all and (max-width: 1280px) {
+	.clock{
+		width:150;
+		height:150;
+	}	
+}
